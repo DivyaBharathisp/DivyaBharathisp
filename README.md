@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Divya
+- 👀 currently working on CNN and Transformers
