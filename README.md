@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Divya
-- 👀 currently working on CNN and Transformers
+- 👀 currently working on ML and DL models for Image super resolution
+- Research scholar in IIT Hyderabad
